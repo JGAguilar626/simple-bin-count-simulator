@@ -6,7 +6,7 @@ This project creates a virtual Amazon Fulfillment Center and simulates the Simpl
 
 The virtual FC created by this program is modeled after legacy Amazon FCs. Legacy (aka "traditional") Amazon FCs are those without Amazon Robotics (formerly Kiva) technology. The program creates an FC with 76,384 inventory receptacles and assigns each one an unique location address and pick-path ID.
 
-Users can log-in to the SBC process and count the number of items physically present in the bin, basically checking for mismatches between physical and virtual inventory amounts.
+Users can log-in to the SBC process and count the number of items physically present in the bin, checking for mismatches between physical and virtual inventory amounts.
 
 ## Project Aim
 The initial aim of this project was to help me learn good programming fundamentals and to simulate the SBC process.
@@ -20,7 +20,7 @@ On a whim, I decided to expand the project's scope by challenging myself to reve
 ## How to Use
 At the program start screen where it prompts the user to enter an employee ID,
 
-![start-screen](https://user-images.githubusercontent.com/129235347/229234792-493d8c7f-e265-488f-af86-2aee46b40f09.jpg)
+![start-screen](https://user-images.githubusercontent.com/129235347/229246989-be745e9e-b036-4356-af7c-fce3f10cce0b.jpg)
 
 Enter:\
 **10404** for employee Jose Aguilar (joseag) - has SBC process permissions\
@@ -40,7 +40,7 @@ While in the SBC process, at the screen in which the user is prompted to "Scan l
 
 -----
 
-While in the SBC process, at the screens in which the user is prompted to enter to count items, the user can also input:
+While in the SBC process, at the screens in which the user is prompted to count/re-count items, the user can also input:
 
 ![image](https://user-images.githubusercontent.com/129235347/229245325-9d88ffde-a28c-4dcf-b388-a7f3ed4c9f84.png)
 
