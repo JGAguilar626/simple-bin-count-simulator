@@ -17,6 +17,21 @@ When thinking of ideas for good portfolio projects, I decided to simulate the SB
 
 On a whim, I decided to expand the project's scope by challenging myself to reverse engineer ONT2's (an Amazon legacy FC) pick-path pattern. An efficient pick-path pattern is crucial for a warehouse/FC the size of ONT2, which I estimate has about half a million inventory receptacles, each one requiring an unique and precise pick-path ID. Manual pick-path ID assignment being out of the question for obvious reasons, I was faced with creating my first set of business-critical algorithms.
 
+## How to Use
+At the program start screen where it prompts the user to enter an employee ID,
+
+![start-screen](https://user-images.githubusercontent.com/129235347/229234792-493d8c7f-e265-488f-af86-2aee46b40f09.jpg)
+
+Enter:
+
+10404 for employee Jose Aguilar (joseag) - has SBC process permissions
+
+100 for employee Zachary Griffith (griffiz) - has SBC process permissions
+
+101 for employee Justin Daniels (judanie) - has SBC process AND Problem Solve permissions
+
+102 for employee Jonathan Torres (jontorre) - has SBC process, Problem Solve, AND Process Assistant permissions
+
 ## Technologies
 This program uses Amazon Coretto JDK 17.0.0_35.
 
