@@ -46,12 +46,15 @@ While in the SBC process, at the screens in which the user is prompted to count/
 
 **p** - for (P)roblem Menu, which allows the user to create an inventory-related andon
 
-## Technologies
+## Technologies and Configuration
 This program uses Amazon Coretto JDK 17.0.0_35.
 
 I chose Java because this is my first software project, and I read that Java is a good language to learn programming fundamentals.
 
-This program reads-in inventory receptacle locations and their corresponding pick-path IDs from two text files. The values were generated using algorithms that I have decided to omit from this version of the program.
+This program reads-in inventory receptacle locations and their corresponding pick-path IDs from two text files.\
+Copy/Paste these two files (p1a-receptacles-locations.txt / p1a-receptacles-pickpath-ids.txt) directly to the programs root folder.
+
+The values were generated using algorithms that I have decided to omit from this version of the program.
 
 ## Additional Information
 ***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA.
