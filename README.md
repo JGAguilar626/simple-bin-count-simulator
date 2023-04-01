@@ -23,7 +23,7 @@ This program uses Amazon Coretto JDK 17.0.0_35.
 I chose Java because this is my first software project, and I read that Java is a good language to learn programming fundamentals.
 
 This program reads-in inventory receptacle locations and their corresponding pick-path IDs from two text files.\
-Copy/Paste these two files (p1a-receptacles-locations.txt / p1a-receptacles-pickpath-ids.txt) directly to the programs root folder.
+Copy/Paste these two files (p1a-receptacles-locations.txt / p1a-receptacles-pickpath-ids.txt) directly to the project's root folder.
 
 The values were generated using algorithms that I have decided to omit from this version of the program.
 
