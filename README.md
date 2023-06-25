@@ -30,7 +30,7 @@ The values were generated using algorithms that I have decided to omit from this
 ## Program Instructions
 At the program start screen where it prompts the user to enter an employee ID,
 
-![start-screen](https://user-images.githubusercontent.com/129235347/229246989-be745e9e-b036-4356-af7c-fce3f10cce0b.jpg)
+![start-screen](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/a66fdc77-f0e7-4720-ba4e-f6661db7096b)
 
 Enter:\
 **10404** for employee Jose Aguilar (joseag) - has SBC process permissions\
