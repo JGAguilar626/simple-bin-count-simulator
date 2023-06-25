@@ -56,5 +56,18 @@ While in the SBC process, when prompted to count/re-count items, the user can al
 
 **p** or **P**- for (P)roblem Menu, which allows the user to create an inventory-related andon
 
+## Features
+For detailed information related to the program's features, scroll down.
+
+- The program creates 1 floor of inventory receptacles (76,384 bins) and assigns each one a unique address.
+- The program assigns each bin a unique pick-path id and uses this value to form a pick-path.
+- The program creates a simplified version of Amazon's Simple Bin Count (SBC) process, an inventory management process.
+- Via Mastermind, certain employees can see FC-related metrics.
+- Via Test Mode, the user can verify that every bin is given a precise address and pick-path id.
+
+
+
+
 ## Additional Information
-***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA.
+***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA. I am currently working in the same role
+at SAN3, an Amazon FC in San Diego, CA.
