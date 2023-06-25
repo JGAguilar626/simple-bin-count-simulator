@@ -20,8 +20,6 @@ On a whim, I decided to expand the project's scope by challenging myself to reve
 ## Technologies, Set-Up and Configuration
 This program uses Amazon Coretto JDK 17.0.0_35.
 
-I chose Java because this is my first software project, and I read that Java is a good language to learn programming fundamentals.
-
 This program reads-in inventory receptacle locations and their corresponding pick-path IDs from two text files.\
 Copy/Paste these two files (p1a-receptacles-locations.txt / p1a-receptacles-pickpath-ids.txt) directly to the project's root folder.
 
@@ -57,13 +55,25 @@ While in the SBC process, when prompted to count/re-count items, the user can al
 **p** or **P**- for (P)roblem Menu, which allows the user to create an inventory-related andon
 
 ## Features
-For detailed information related to the program's features, scroll down.
-
 - The program creates 1 floor of inventory receptacles (76,384 bins) and assigns each one a unique address.
 - The program assigns each bin a unique pick-path id and uses this value to form a pick-path.
 - The program creates a simplified version of Amazon's Simple Bin Count (SBC) process, an inventory management process.
 - Via Mastermind, certain employees can see FC-related metrics.
 - Via Test Mode, the user can verify that every bin is given a precise address and pick-path id.
+
+-----
+
+Additional details related to the floor layout and inventory receptacles:
+
+Inventory receptacles are given addresses based on the following convention: PrimeFloorLevelModLetter-AisleNumber-BinLevel-BinRowBinNumber
+Thus, all inventory receptacles have addresses such as: P1A-102-A-100
+Using this naming convention makes it possible for an employee to locate an exact bin in a warehouse that, I estimate, can have around 500,000 locations.
+
+This program creates 1 floor with 8 rows of aisles. Each row contains 124 aisles, and each aisle contains 77 bins for any given row. For example, below is what the wall of bins at aisle P1A-102-100s looks like:
+
+
+
+
 
 
 
