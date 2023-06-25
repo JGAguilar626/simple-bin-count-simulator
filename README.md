@@ -71,12 +71,7 @@ Using this naming convention makes it possible for an employee to locate an exac
 
 This program creates 1 floor with 8 rows of aisles. Each row contains 124 aisles, and each aisle contains 77 bins for any given row. For example, below is what the wall of bins at aisle P1A-102-100s looks like:
 
-
-
-
-
-
-
+![P1A-102-100s Bin Wall](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/a96c373e-6bb1-4db8-be0b-0489328d1fc0)
 
 ## Additional Information
 ***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA. I am currently working in the same role
