@@ -82,7 +82,7 @@ For example, below is what the wall of bins at aisle P1A-102-100s looks like:
 
 Additional details related to the pick-path:
 
-Amazon's pick-path is a virtual line that, in a "snake-line" manner, passes through every bin and connects them all together. Imagine a scenario in which an employee is tasked with picking one item from every bin in the FC. The most efficient way to complete this task is to follow a snake-like pattern that minimizes unnecessary movements from bin to bin, aisle to aisle, row to row, floor to floor, and mod to mod\.
+Amazon's pick-path is a virtual line that, in a "snake-line" manner, passes through every bin and connects them all together. Imagine a scenario in which an employee is tasked with picking one item from every bin in the FC. The most efficient way to complete this task is to follow a snake-like pattern that minimizes unnecessary movements from bin to bin, aisle to aisle, row to row, floor to floor, and mod to mod.\
 \
 Below are 2 illustrations of what the pick-path at the P1A-102/103-100s looks like. The encircled numbers are the pick-path ids, and the red line demonstrates the direction of the pick-path. The photo with the sticky note gives a bird's eye representation of an associate in between two walls of bins. To his left are the P1A-102-100s, and to his right are the P1A-103-100s. The pick-path travels "up" towards the P1A-102-200s and P1A-103-200s.\
 \
