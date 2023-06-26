@@ -65,11 +65,16 @@ While in the SBC process, when prompted to count/re-count items, the user can al
 
 Additional details related to the floor layout and inventory receptacles:
 
-Inventory receptacles are given addresses based on the following convention: PrimeFloorLevelModLetter-AisleNumber-BinLevel-BinRowBinNumber
-Thus, all inventory receptacles have addresses such as: P1A-102-A-100
-Using this naming convention makes it possible for an employee to locate an exact bin in a warehouse that, I estimate, can have around 500,000 locations.
-
-This program creates 1 floor with 8 rows of aisles. Each row contains 124 aisles, and each aisle contains 77 bins for any given row. For example, below is what the wall of bins at aisle P1A-102-100s looks like:
+This program creates 1 floor with 8 rows of 124 aisles. Each aisle (per row) contains 77 bins.\
+\
+Inventory receptacles addresses are based on the following convention:\
+PrimeFloorLevelModLetter-AisleNumber-BinLevel-BinRowBinNumber.\
+\
+Thus, all inventory receptacles have addresses such as: P1A-102-A-100\
+\
+Using this naming convention makes it possible for an employee to locate an exact bin in a warehouse that, I estimate, can have around 500,000 locations.\
+\
+For example, below is what the wall of bins at aisle P1A-102-100s looks like:
 
 ![P1A-102-100s Bin Wall](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/a96c373e-6bb1-4db8-be0b-0489328d1fc0)
 
