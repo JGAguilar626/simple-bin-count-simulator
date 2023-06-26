@@ -94,7 +94,7 @@ Below are 2 illustrations of what the pick-path at the P1A-102/103-100s looks li
 
 Below, I include a hand-drawn diagram of the floor created by my program. It's almost exactly the same as real-life ONT2's floor P1A layout. Note that although it might seem like the conveyors are preventing travel between certain rows, in real-life they are actually elevated at the points in which the pick-path (red-line) passes through them. At these points (and at other points not represented in the illustration) the conveyor is physically above associates' heads as they move between rows. For the sake of simplicity, I omitted aisles 126-204 from the diagram, but they are present in the program.
 
-![SBC Sim P1A Floor Overview](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/f3a9bf9b-f2a2-4429-8592-5238becf4c78)\
+![SBC Sim P1A Floor Overview](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/f3a9bf9b-f2a2-4429-8592-5238becf4c78)
 
 ## Additional Information
 ***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA. I am currently working in the same role
