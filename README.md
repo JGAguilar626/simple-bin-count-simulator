@@ -90,7 +90,7 @@ Below are 2 illustrations of what the pick-path at the P1A-102/103-100s looks li
 \
 ![P1A-103-100s-with-pick-path-id-and-line](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/6ab2716b-ca06-4667-8fbc-e8b5838d7d20)\
 \
-![star-between-walls](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/bd3fed2a-b2a0-4484-92c3-65c1860e0ada)\
+![star-between-walls](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/bd3fed2a-b2a0-4484-92c3-65c1860e0ada)
 
 Below, I include a hand-drawn diagram of the floor created by my program. It's almost exactly the same as real-life ONT2's floor P1A layout. Note that although it might seem like the conveyors are preventing travel between certain rows, in real-life they are actually elevated at the points in which the pick-path (red-line) passes through them. At these points (and at other points not represented in the illustration) the conveyor is physically above associates' heads as they move between rows. For the sake of simplicity, I omitted aisles 126-204 from the diagram, but they are present in the program.
 
