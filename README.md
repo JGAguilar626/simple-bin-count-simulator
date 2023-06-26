@@ -90,7 +90,7 @@ Below are 2 illustrations of what the pick-path at the P1A-102/103-100s looks li
 \
 ![P1A-103-100s-with-pick-path-id-and-line](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/6ab2716b-ca06-4667-8fbc-e8b5838d7d20)\
 \
-![star-between-walls](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/bd3fed2a-b2a0-4484-92c3-65c1860e0ada)\
+![star-between-walls](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/bd3fed2a-b2a0-4484-92c3-65c1860e0ada)
 
 ## Additional Information
 ***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA. I am currently working in the same role
