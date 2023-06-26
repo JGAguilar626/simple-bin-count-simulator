@@ -78,6 +78,20 @@ For example, below is what the wall of bins at aisle P1A-102-100s looks like:
 
 ![P1A-102-100s Bin Wall](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/a96c373e-6bb1-4db8-be0b-0489328d1fc0)
 
+-----
+
+Additional details related to the pick-path:
+
+Amazon's pick-path is a virtual line that, in a "snake-line" manner, passes through every bin and connects them all together. Imagine a scenario in which an employee is tasked with picking one item from every bin in the FC. The most efficient way to complete this task is to follow a snake-like pattern that minimizes unnecessary movements from bin to bin, aisle to aisle, row to row, floor to floor, and mod to mod\.
+\
+Below are 2 illustrations of what the pick-path at the P1A-102/103-100s looks like. The encircled numbers are the pick-path ids, and the red line demonstrates the direction of the pick-path. The photo with the sticky note gives a bird's eye representation of an associate in between two walls of bins. To his left are the P1A-102-100s, and to his right are the P1A-103-100s. The pick-path travels "up" towards the P1A-102-200s and P1A-103-200s.\
+\
+![P1A-102-100s-with-pick-path-id-and-line](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/ba34e312-7657-48a1-8fec-e3af2365bfbc)\
+\
+![P1A-103-100s-with-pick-path-id-and-line](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/6ab2716b-ca06-4667-8fbc-e8b5838d7d20)\
+\
+![star-between-walls](https://github.com/JGAguilar626/simple-bin-count-simulator/assets/129235347/bd3fed2a-b2a0-4484-92c3-65c1860e0ada)\
+
 ## Additional Information
 ***Please note that I have never seen a single line of code pertaining to Amazon FC software. Nor did I receive help/guidance from anybody formerly/currently employed by Amazon.*** I created the algorithms myself based on my own memories and experiences working as a Level 1 Fulfillment Associate at ONT2, an Amazon FC in San Bernardino, CA. I am currently working in the same role
 at SAN3, an Amazon FC in San Diego, CA.
